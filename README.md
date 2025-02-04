@@ -4,7 +4,7 @@ MGui Is An Umm What The Sigma
 
 ## Version
 
-It Have Two Versions [Original] And [Recode]
+It Have Two Versions [Original] And [Recode] (also Recode It Have Bug So Scriptbloxにアップロードしたことはありません
 
 ### How It Start
 
